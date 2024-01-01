@@ -15,5 +15,5 @@ export default function App() {
      <Project1 myList={myList}/>
       
     </div>
-  );
+  )
 }
